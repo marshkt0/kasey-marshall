@@ -53,7 +53,7 @@ enableGitInfo = false
 
   # Your details.
   name = "Kasey Marshall"
-  role = "Lead Psychology Departmental Assistant"
+  role = "Baccalaureate Candidate"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
@@ -103,7 +103,7 @@ enableGitInfo = false
 
   # Color theme.
   #   Choose from `default`, `ocean`, `forest`, `dark`, `apogee`, `1950s`, `coffee`, `cupcake`.
-  color_theme = "default"
+  color_theme = "forest"
   # Enable users to switch between day and night mode?
   day_night = true
 
